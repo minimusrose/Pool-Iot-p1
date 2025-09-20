@@ -1,1 +1,15 @@
+Output a list of installed packages and their versions : 
+pip list
 
+Show the package metadeta of numpy
+pip show numpy
+
+Remove the package numpy
+pip uninstall numpy
+
+Reinstall the package numpy
+pip install numpy
+
+Freeze my python packages and their versions in a requirements.txt file I
+have to turn-in.
+pip freeze > requirements.txt
